@@ -20,7 +20,6 @@ Now we’re going to write a fully-functioning multi-line program that responds 
 Tic-tac-toe is not all about analysis – a game is meant to be played! Write a program that can change the state of the field, as your first real step toward a fully-functioning game application!
 ### :ballot_box_with_check: Stage 5/5: Fight!
 Finally! Thanks to this app, you can always challenge a friend to play a quick game of Tic-Tac-Toe!
-
 ### Demo
 
-
+![Alt-текст](https://github.com/PaulinaMacurek/SimpleTic-Tac-Toe_/blob/master/Simple%20Tic-Tac-Toe/task/demoTicTacToe.gif?raw=true&v=3&s=460 "Demo")
